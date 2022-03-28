@@ -1,3 +1,12 @@
+.movielist {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.movieCard {
+  margin: 8px;
+}
+
 .App {
   text-align: center;
 }
