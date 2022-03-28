@@ -8,6 +8,7 @@ https://main.d2b6bj275lss3e.amplifyapp.com/
 
 ``
 cd amplifyapp
+
 npm start
 ``
 
